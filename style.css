@@ -15,7 +15,7 @@ background: radial-gradient(circle, rgba(128,5,83,1) 0%, rgba(0,0,0,1) 50%);
 }
 
 
-.cabeçalho{
+.cabecalho{
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -23,16 +23,16 @@ background: radial-gradient(circle, rgba(128,5,83,1) 0%, rgba(0,0,0,1) 50%);
     padding: 24px;
 }
 
-.cabeçalho-imagem{
+.cabecalho-imagem{
     height: 72px;
 }
 
-.cabeçalho-menu{
+.cabecalho-menu{
     display: flex;
     gap: 32px;
 }
 
-.cabeçalho-menu-item{
+.cabecalho-menu-item{
     font-family: 'Sarala', sans-serif;
     color:rgb(236, 233, 228);
     font-weight: 400;
